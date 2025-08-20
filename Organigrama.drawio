@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Página-1" id="11aGm9SkkB86KHjLV3OP">
-    <mxGraphModel dx="2316" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2564" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,13 +67,11 @@
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-11" target="6m8UZrbuLrnwmyDjbOqj-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6m8UZrbuLrnwmyDjbOqj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="500" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-11" target="6m8UZrbuLrnwmyDjbOqj-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-11" value="Gerente de People" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="813" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="880" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-13" target="6m8UZrbuLrnwmyDjbOqj-14">
           <mxGeometry relative="1" as="geometry" />
@@ -82,7 +80,7 @@
           <mxGeometry x="425" y="400" width="132.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-14" value="Coordinador de Proyectos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="433.75" y="500" width="115" height="40" as="geometry" />
+          <mxGeometry x="433.75" y="515" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-17" value="Director Técnico Fabrica de Soluciones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="570" y="400" width="110" height="60" as="geometry" />
@@ -91,25 +89,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-19" value="Líder de Adquisición de Talento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="700" y="400" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6m8UZrbuLrnwmyDjbOqj-20" value="Líder de SST" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="809.5" y="400" width="107" height="60" as="geometry" />
+          <mxGeometry x="730" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-21" value="Líder de Aprendizaje y Desarrollo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="950" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-25" target="6m8UZrbuLrnwmyDjbOqj-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-25" value="Analista de R&amp;amp;S" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="695" y="500" width="100" height="50" as="geometry" />
+          <mxGeometry x="725" y="495" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-27" value="Analistas de Selección" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="690" y="585" width="110" height="45" as="geometry" />
+          <mxGeometry x="720" y="590" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-29" value="Auxiliar de Bienestar y Calidad de Vida" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="880" y="500" width="120" height="50" as="geometry" />
+          <mxGeometry x="990" y="495" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-33" value="Coordinador Técnico Fabrica de Soluciones&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-11" target="6m8UZrbuLrnwmyDjbOqj-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="500" as="targetPoint" />
+            <mxPoint x="930" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-20" value="Líder de SST" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="876.5" y="400" width="107" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
