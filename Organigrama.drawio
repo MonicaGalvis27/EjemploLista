@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Página-1" id="11aGm9SkkB86KHjLV3OP">
-    <mxGraphModel dx="2564" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2316" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,11 +40,17 @@
         <mxCell id="yNXOAHpUrxnPB8L_Ha3r-8" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Gerente CTO&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="440" y="190" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6m8UZrbuLrnwmyDjbOqj-1" value="Director Comercial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="290" width="120" height="40" as="geometry" />
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-1" target="6m8UZrbuLrnwmyDjbOqj-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-1" value="Director Comercial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#00CC00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-420" y="270" width="123" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-3" target="6m8UZrbuLrnwmyDjbOqj-102">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-3" value="Líder de Markething Digital" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#00CC00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-280" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="-250" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-6" target="6m8UZrbuLrnwmyDjbOqj-86">
           <mxGeometry relative="1" as="geometry" />
@@ -233,7 +239,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-79" value="Coordinadora de Tesorería" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="357.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="-110" y="357.5" width="110" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-80" target="6m8UZrbuLrnwmyDjbOqj-81">
           <mxGeometry relative="1" as="geometry" />
@@ -245,10 +251,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-81" value="Auxiliar Contable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="550" width="110" height="45" as="geometry" />
+          <mxGeometry x="-110" y="557" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-82" value="Auxiliares de Facturación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="630" width="110" height="45" as="geometry" />
+          <mxGeometry x="-110" y="650" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-83" value="Analista de Relaciones Comerciales" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="20" y="355" width="120" height="55" as="geometry" />
@@ -270,6 +276,30 @@
         </mxCell>
         <mxCell id="6m8UZrbuLrnwmyDjbOqj-87" value="Auxiliares Administrativos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="293" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-102" value="Auxiliares de Markething Digital" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-104" target="6m8UZrbuLrnwmyDjbOqj-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-104" value="Asistente en Markething y Ventas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-418.5" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-105" target="6m8UZrbuLrnwmyDjbOqj-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-105" value="Business Development&amp;nbsp;&lt;div&gt;Nacional&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-418.5" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-106" value="Analistas de Markething Internacional" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-418.5" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6m8UZrbuLrnwmyDjbOqj-107" target="6m8UZrbuLrnwmyDjbOqj-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6m8UZrbuLrnwmyDjbOqj-107" value="Business Development&amp;nbsp;&lt;div&gt;Internacional&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-418.5" y="557" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
